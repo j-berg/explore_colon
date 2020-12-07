@@ -1,2 +1,10 @@
-# explore_colon
-Explore gene expression data from colon cancer cohorts
+### Requirements:  
+* Python3   
+* Pandas
+* NumPy
+* SciPy
+* Matplotlib
+* Scikit-Learn
+* XPRESSplot
+* GEOparse
+* statsmodels
