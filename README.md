@@ -1,10 +1,1 @@
-### Requirements:  
-* Python3   
-* Pandas
-* NumPy
-* SciPy
-* Matplotlib
-* Scikit-Learn
-* XPRESSplot
-* GEOparse
-* statsmodels
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-berg/explore_colon/HEAD?filepath=https%3A%2F%2Fgithub.com%2Fj-berg%2Fexplore_colon%2Fblob%2Fmain%2Fexplore.ipynb) to launch interactive analysis notebook.
